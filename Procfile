@@ -1,0 +1,1 @@
+web: gunicorn ArquiChat.wsgi --log-file -
